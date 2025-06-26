@@ -1,8 +1,8 @@
 {
     "name": "My PWA",
     "short_name": "PWA",
-    "start_url": "index1-copy.html",
-    "display": "standalone",
+    "start_url": "/index1-copy.html",
+    "display": "fullscreen",
     "background_color": "#ffffff",
     "description": "A simple Progressive Web App example.",
     "icons": [
